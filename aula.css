@@ -1,0 +1,26 @@
+main p{
+	background: orange;
+}
+
+main h1{
+	background: orange;
+
+}
+
+#laranja{
+	width: 50%;
+	opacity: 0.3;
+	box-shadow: 10px 10px 5px red, -10px -10px red;
+}
+
+#alerta{
+	width: 35%;
+	opacity: 0.3;
+	box-shadow: 10px 10px 5px red, -10px -10px red;
+}
+
+.pagina1{
+	width: 60%;
+	box-shadow: 10px 10px 5px orange;
+}
+
